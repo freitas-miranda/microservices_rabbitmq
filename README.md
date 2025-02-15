@@ -1,4 +1,4 @@
-# microservices_rabbitmq
+# ticket-payment-rabbitmq
 
 Este projeto consiste em duas aplicações principais: uma para gerar ingressos e outra para processar pagamentos. Ambas as aplicações são desenvolvidas em Node.js e se comunicam através do RabbitMQ.
 
