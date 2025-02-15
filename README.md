@@ -1,6 +1,7 @@
 # ticket-payment-rabbitmq
 
-Este projeto consiste em duas aplicações principais: uma para gerar ingressos e outra para processar pagamentos. Ambas as aplicações são desenvolvidas em Node.js e se comunicam através do RabbitMQ.
+- Este projeto consiste em duas aplicações principais: uma para gerar ingressos e outra para processar pagamentos.
+- Ambas as aplicações são desenvolvidas em Node.js e se comunicam através do RabbitMQ.
 
 ## Estrutura do Projeto
 - **ticket**: Responsável por criar e gerenciar os ingressos.
